@@ -1,0 +1,55 @@
+/* CSS Document */
+
+
+.P2 {
+    font-family: Courier;
+    font-style: italic;
+  }
+    
+
+body {
+    background-color: lightgreen;
+  }
+
+.parasiteImg {
+    height: 50px;  
+    width: 50px;
+  }
+
+#meme {
+    position: relative; 
+  }
+
+#parasitememe {
+    width: 100%;
+    height: auto;
+    margin: 20px; 
+  }
+
+  #memetext {
+    left: 50%;
+    border-style: dotted; 
+    border-width: thin;
+    text-shadow: 5px 5px 5px magenta;
+    position: absolute;
+    text-align: center; 
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    color: white; 
+    font-size: xx-large;
+    }
+    
+
+  #floatedoscar {
+    float: right;
+    background:brown;
+    padding: 20px;
+    width: 200px;
+    height: auto;
+    border-radius: 25px;
+  }
+
+  #ocscarImg {
+    width: 150px; 
+  }
